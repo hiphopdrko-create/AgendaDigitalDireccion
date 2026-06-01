@@ -1,0 +1,14 @@
+Estructura: 
+
+AgendaDigitalDireccion/
+│
+├── main.py
+├── database.py
+├── alumnos.py
+├── maestros.py
+├── citas.py
+├── assets/
+│   └── logo.png
+│
+└── data/
+    └── agenda.db
